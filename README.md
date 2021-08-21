@@ -1,1 +1,1 @@
-# This repo is for the projects made using html, css, js.
+# This repo is for the projects made using HTML, CSS, JS.
